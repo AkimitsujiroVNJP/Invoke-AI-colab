@@ -126,3 +126,264 @@ sd-1/lora/LowRA:
 sd-1/lora/Ink scenery:
    path: https://civitai.com/api/download/models/83390
    recommended: False
+sd-1/lora/Eye:
+   path: https://civitai.com/api/download/models/6433
+   recommended: True
+sd-1/lora/Yan Shu Chi:
+   path: https://civitai.com/api/download/models/149698
+   recommended: True
+sd-1/lora/HyperRG:
+   path: https://civitai.com/api/download/models/145643
+   recommended: True
+sd-1/lora/NijiMale:
+   path: https://civitai.com/api/download/models/164114
+   recommended: True
+sd-1/lora/Son Gohan:
+   path: https://civitai.com/api/download/models/51000
+   recommended: True
+sd-1/lora/exveemon:
+   path: https://civitai.com/api/download/models/62186
+   recommended: True
+sd-1/lora/Venom:
+   path: https://civitai.com/api/download/models/94790
+   recommended: True
+sd-1/lora/Penis chart:
+   path: https://civitai.com/api/download/models/126519
+   recommended: True
+sd-1/lora/giant cat:
+   path: https://civitai.com/api/download/models/163660
+   recommended: True
+sd-1/lora/sacred beast:
+   path: https://civitai.com/api/download/models/179193
+   recommended: True
+sd-1/lora/sdxl sacred beast:
+   path: https://civitai.com/api/download/models/178749
+   recommended: True
+sd-1/lora/Envy Floorplans XL:
+   path: https://civitai.com/api/download/models/172438
+   recommended: True
+sd-1/lora/Ancient Chinese martial arts:
+   path: https://civitai.com/api/download/models/164383
+   recommended: True
+sd-1/lora/kumak71395 style:
+   path: https://civitai.com/api/download/models/9334
+   recommended: True
+sd-1/lora/Tick-tock meme:
+   path: https://civitai.com/api/download/models/64109
+   recommended: True
+sd-1/lora/fcon style:
+   path: https://civitai.com/api/download/models/14491
+   recommended: True
+sd-1/lora/tekkowang style:
+   path: https://civitai.com/api/download/models/8569
+   recommended: True
+sd-1/lora/Lin Hu:
+   path: https://civitai.com/api/download/models/181012
+   recommended: True
+sd-1/lora/Aztech Armor:
+   path: https://civitai.com/api/download/models/168673
+   recommended: True
+sd-1/lora/karate uniform:
+   path: https://civitai.com/api/download/models/163218
+   recommended: True
+sd-1/lora/东方机能 East Techwear:
+   path: https://civitai.com/api/download/models/177207
+   recommended: True
+sd-1/lora/Chinese Mid-Autumn Festival:
+   path: https://civitai.com/api/download/models/172691
+   recommended: True
+sd-1/lora/EVA AYANAMI REI:
+   path: https://civitai.com/api/download/models/180830
+   recommended: True
+sd-1/lora/Genshin Styled Male Clothing:
+   path: https://civitai.com/api/download/models/166778
+   recommended: True
+sd-1/lora/Genshin Styled Clothing:
+   path: https://civitai.com/api/download/models/155407
+   recommended: True
+sd-1/lora/Genshin Impact All In One:
+   path: https://civitai.com/api/download/models/116970
+   recommended: True
+sd-1/lora/Lumine Genshin Impact:
+   path: https://civitai.com/api/download/models/41292
+   recommended: True
+sd-1/lora/Aether Genshin Impact:
+   path: https://civitai.com/api/download/models/95232
+   recommended: True
+sd-1/lora/Chongyun Genshin Impact:
+   path: https://civitai.com/api/download/models/146166
+   recommended: True
+sd-1/lora/Midoriya Izuku:
+   path: https://civitai.com/api/download/models/141455
+   recommended: True
+sd-1/lora/Satoru Gojo:
+   path: https://civitai.com/api/download/models/132846
+   recommended: True
+sd-1/lora/Pastry Mill Morteln:
+   path: https://civitai.com/api/download/models/128083
+   recommended: True
+sd-1/lora/Albedo Genshin Impact:
+   path: https://civitai.com/api/download/models/114039
+   recommended: True
+sd-1/lora/Tartaglia (Childe) Genshin Impact:
+   path: https://civitai.com/api/download/models/110137
+   recommended: True
+sd-1/lora/Light Tenryuu:
+   path: https://civitai.com/api/download/models/102321
+   recommended: True
+sd-1/lora/Shiki Granbell:
+   path: https://civitai.com/api/download/models/92572
+   recommended: True
+sd-1/lora/Mikey:
+   path: https://civitai.com/api/download/models/84880
+   recommended: True
+sd-1/lora/Todoroki Shoto:
+   path: https://civitai.com/api/download/models/85604
+   recommended: True
+sd-1/lora/Karma Akabane:
+   path: https://civitai.com/api/download/models/74147
+   recommended: True
+sd-1/lora/Itadori Yuuji:
+   path: https://civitai.com/api/download/models/135139
+   recommended: True
+sd-1/lora/Eugeo:
+   path: https://civitai.com/api/download/models/158391
+   recommended: True
+sd-1/lora/Takemichi Hanagaki:
+   path: https://civitai.com/api/download/models/158377
+   recommended: True
+sd-1/lora/bennett (genshin impact):
+   path: https://civitai.com/api/download/models/17615
+   recommended: True
+sd-1/lora/razor (genshin impact):
+   path: https://civitai.com/api/download/models/17617
+   recommended: True
+sd-1/lora/neuvillette (genshin impact):
+   path: https://civitai.com/api/download/models/170163
+   recommended: True
+sd-1/lora/Freminet (genshin impact):
+   path: https://civitai.com/api/download/models/164024
+   recommended: True
+sd-1/lora/Arena of Valor style:
+   path: https://civitai.com/api/download/models/154273
+   recommended: True
+sd-1/lora/lyney (genshin impact):
+   path: https://civitai.com/api/download/models/156427
+   recommended: True
+sd-1/lora/https://civitai.com/api/download/models/17628:
+   path: gorou (genshin impact) realistic
+   recommended: True
+sd-1/lora/Gorou Genshin:
+   path: https://civitai.com/api/download/models/17463
+   recommended: True
+sd-1/lora/XingQiu Genshin:
+   path: https://civitai.com/api/download/models/24910
+   recommended: True
+sd-1/lora/cyno (genshin impact):
+   path: https://civitai.com/api/download/models/17603
+   recommended: True
+sd-1/lora/tighnari (genshin impact):
+   path: https://civitai.com/api/download/models/17610
+   recommended: True
+sd-1/lora/scaramouche (genshin impact):
+   path: https://civitai.com/api/download/models/17595
+   recommended: True
+sd-1/lora/Shikanoin Heizou (genshin impact):
+   path: https://civitai.com/api/download/models/17608
+   recommended: True
+sd-1/lora/mika (genshin impact):
+   path: https://civitai.com/api/download/models/27593
+   recommended: True
+sd-1/lora/Xiao Genshin Impact:
+   path: https://civitai.com/api/download/models/44324
+   recommended: True
+sd-1/lora/Kazuha Genshin Impact:
+   path: https://civitai.com/api/download/models/21253
+   recommended: True
+sd-1/lora/Arataki Itto Genshin Impact:
+   path: https://civitai.com/api/download/models/15842
+   recommended: True
+sd-1/lora/Trailblazer Female:
+   path: https://civitai.com/api/download/models/65996
+   recommended: True
+sd-1/lora/Dan Heng:
+   path: https://civitai.com/api/download/models/57770
+   recommended: True
+sd-1/lora/Arlan:
+   path: https://civitai.com/api/download/models/129550
+   recommended: True
+sd-1/lora/Yanqing:
+   path: https://civitai.com/api/download/models/94732
+   recommended: True
+sd-1/lora/Jing Yuan:
+   path: https://civitai.com/api/download/models/76136
+   recommended: True
+sd-1/lora/Blade:
+   path: https://civitai.com/api/download/models/84939
+   recommended: True
+sd-1/lora/Tanjiro:
+   path: https://civitai.com/api/download/models/119885
+   recommended: True
+sd-1/lora/Kimetsu No Yaiba Anime Style:
+   path: https://civitai.com/api/download/models/25321
+   recommended: True
+sd-1/lora/The Promised Neverland Anime Style :
+   path: https://civitai.com/api/download/models/95511
+   recommended: True
+sd-1/lora/Ken Sugimori Style for Fakemon and Characters:
+   path: https://civitai.com/api/download/models/73529
+   recommended: True
+sd-1/lora/Avatar: The Last Airbender Style:
+   path: https://civitai.com/api/download/models/91170
+   recommended: True
+sd-1/lora/Mushoku Tensei Anime Style:
+   path: https://civitai.com/api/download/models/67458
+   recommended: True
+sd-1/lora/Ben 10 Style:
+   path: https://civitai.com/api/download/models/89381
+   recommended: True
+sd-1/lora/League of Legends Official Art Style:
+   path: https://civitai.com/api/download/models/89324
+   recommended: True
+sd-1/lora/Add More Details:
+   path: https://civitai.com/api/download/models/87153
+   recommended: True
+sd-1/lora/Spy x Family Style:
+   path: https://civitai.com/api/download/models/86353
+   recommended: True
+sd-1/lora/Digimon Adventures Style:
+   path: https://civitai.com/api/download/models/76910
+   recommended: True
+sd-1/lora/The Legend of Zelda Art Style:
+   path: https://civitai.com/api/download/models/72659
+   recommended: True
+sd-1/lora/Honkai: Star Rail Video Game Graphics Style:
+   path: https://civitai.com/api/download/models/64848
+   recommended: True
+sd-1/lora/Dragon Ball Super Style:
+   path: https://civitai.com/api/download/models/64076
+   recommended: True
+sd-1/lora/Sword Art Online Anime Style:
+   path: https://civitai.com/api/download/models/58499
+   recommended: True
+sd-1/lora/Chainsaw Man Anime:
+   path: https://civitai.com/api/download/models/57527
+   recommended: True
+sd-1/lora/Bleach Anime Styl:
+   path: https://civitai.com/api/download/models/56452
+   recommended: True
+sd-1/lora/Tensura Tensei Shitara Slime Datta Ken Style:
+   path: https://civitai.com/api/download/models/35907
+   recommended: True
+sd-1/lora/One Piece Style:
+   path: https://civitai.com/api/download/models/6331
+   recommended: True
+sd-1/lora/Attack on Titan Anime Style:
+   path: https://civitai.com/api/download/models/7466
+   recommended: True
+sd-1/lora/My Hero Academia Style:
+   path: https://civitai.com/api/download/models/5784
+   recommended: True
+sd-1/lora/Sans Undertale:
+   path: https://civitai.com/api/download/models/6891
+   recommended: True
