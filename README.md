@@ -1,3 +1,9 @@
+## 🦒 Colab
+
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://colab.research.google.com/drive/1gejFqOSraC_lqBtOHDQm_8kZPU70fLyG)] | InvokeAI colab v3.0.1
+
 ## Tutorial 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/25f36aa3-e4da-4bef-a951-b8b6c6aff5d3)
 This is not an error or crash. We are intentionally restarting the colab. You don't need to do anything. Please execute the second cell.
